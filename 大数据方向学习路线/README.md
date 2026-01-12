@@ -170,6 +170,3 @@
 不要因为路途遥远而放弃，**路虽远，行则将至；事虽难，做则必成。**
 
 > **Keep Coding, Keep Learning, Stay Hungry, Stay Foolish.**
-
----
-*Created by Gemini Enterprise & Root_Agent - Optimized for GitHub*
